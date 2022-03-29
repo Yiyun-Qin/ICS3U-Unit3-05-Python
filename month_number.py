@@ -38,7 +38,7 @@ def main():
     elif number_month == 12:
         print("It is December.")
     else:
-        print("This is not a number of month!")
+        print("This is not a number of months!")
     print("\nDone.")
 
 
