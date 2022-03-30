@@ -11,3 +11,4 @@ SELECT (number_compared)
     SHOW "It is December."
     ELSE
     SHOW "This is not a number of months!"
+    ENDIF
