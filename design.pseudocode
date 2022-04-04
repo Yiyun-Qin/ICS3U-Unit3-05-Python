@@ -1,14 +1,14 @@
 GET number_compared
 SELECT (number_compared)
     CASE 1
-    SHOW "It is January."
+        SHOW "It is January."
     CASE 2
-    SHOW "It is February."
+        SHOW "It is February."
     CASE 3
-    SHOW "It is March."
+        SHOW "It is March."
     ......
     CASE 12
-    SHOW "It is December."
+        SHOW "It is December."
     ELSE
-    SHOW "This is not a number of months!"
+        SHOW "This is not a number of months!"
     ENDIF
